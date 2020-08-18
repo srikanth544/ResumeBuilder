@@ -1,0 +1,25 @@
+.removeMargin{
+    margin: 0px !important;
+    width:100%;
+    margin-top: '10px';
+}
+
+.colMargin{
+    margin-top: 10px;
+}
+
+.headerSection{
+    text-align: center;
+    margin-left: 10px;
+    /* width:80% */
+}
+
+h4{
+    background-color: rgb(86, 101, 115);
+    border-radius: 10px;
+    color:white;
+}
+
+#companiesSpace{
+    overflow-y: auto;
+}
